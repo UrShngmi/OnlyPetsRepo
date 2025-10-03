@@ -1,0 +1,5 @@
+{
+  "name": "OnlyPets",
+  "description": "A modern web application for browsing and adopting pets, and booking pet care services. Guests can explore listings, view details, and simulate the adoption process.",
+  "requestFramePermissions": []
+}

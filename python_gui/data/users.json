@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1759414984",
+    "email": "dwadwad",
+    "username": "dwadwad",
+    "profile_picture": "assets/default_profile.png",
+    "password": "dwad",
+    "is_current": false
+  },
+  {
+    "id": "1759419649",
+    "email": "jane.doe.2601@google.com",
+    "username": "Jane Doe",
+    "profile_picture": "assets/default_profile.png",
+    "password": "",
+    "is_current": true
+  }
+]
